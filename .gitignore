@@ -1,2 +1,6 @@
 .vagrant/
+<<<<<<< HEAD
 puppet/manifests/*.swp
+=======
+puppet/manifests/*.swp
+>>>>>>> 5f041ae51d37100aaee0831f5def9753141a8cc3

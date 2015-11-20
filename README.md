@@ -2,6 +2,6 @@
 Vagrant to nodejs
 
 
-vagrant up install dependencies.
+* vagrant up --> Install dependencies.
 
-vagrant ssh join shsh.
+* vagrant ssh --> Join shsh.
